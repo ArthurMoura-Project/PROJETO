@@ -69,10 +69,10 @@ body * {
 
 /* switch */
 #switch {
-  position: relative;
+  position: absolute;
   width: 64px;
-   top: 390px;
-   left: -500px;
+   top: 440px;
+   left: 190px;
   margin: 4px auto;
 }
 
