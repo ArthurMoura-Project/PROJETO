@@ -8,9 +8,9 @@ function trocar() {
   // substituir a imagem
   if (html.classList.contains("light")) {
     // se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "../Imagens/ARTE-4.png")
+    img.setAttribute("src", "Imagens/ARTE-4.png")
   } else {
     // set tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "../Imagens/ARTE-5.png")
+    img.setAttribute("src", "Imagens/ARTE-5.png")
   }
 }
